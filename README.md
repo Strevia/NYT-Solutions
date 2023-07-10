@@ -5,3 +5,5 @@ The New York Times has quite a few word games besides [Wordle](https://github.co
 - Letterboxed (Complete, solves with both two words and three or more without letter repetition)
 
 - Digits (Complete, shows fewest moves)
+
+- Spelling Bee (Complete, Wordlist seems to be incomplete)
