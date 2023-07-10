@@ -4,4 +4,4 @@ The New York Times has quite a few word games besides [Wordle](https://github.co
 
 - Letterboxed (Complete, solves with both two words and three or more without letter repetition)
 
-- Digits (In Progress)
+- Digits (Complete, shows fewest moves)
